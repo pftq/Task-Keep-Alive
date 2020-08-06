@@ -1,0 +1,4 @@
+4/27/2016 7:29:41 AM: TaskKeepAlive by pftq ~ www.pftq.com ~ Oct. 2015
+4/27/2016 7:29:41 AM: Pass arguments to TaskKeepAlive via shortcut/command prompt to pass them to tasks it restarts.
+4/27/2016 7:29:41 AM: Running from: J:\PFTQ\CSharp\TaskKeepAlive\Source\bin\x64\Release\TaskKeepAlive.exe
+4/27/2016 7:29:41 AM: Restarting: J:\PFTQ\CSharp\TaskKeepAlive\Source\bin\x64\Release\TaskKeepAlive.vshost.exe
