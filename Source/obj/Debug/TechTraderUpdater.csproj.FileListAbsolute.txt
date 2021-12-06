@@ -1,5 +1,0 @@
-C:\Users\wmok\Desktop\TechTraderUpdater\TechTraderUpdater\TechTraderUpdater\bin\Debug\TechTraderUpdater.exe.config
-C:\Users\wmok\Desktop\TechTraderUpdater\TechTraderUpdater\TechTraderUpdater\bin\Debug\TechTraderUpdater.exe
-C:\Users\wmok\Desktop\TechTraderUpdater\TechTraderUpdater\TechTraderUpdater\bin\Debug\TechTraderUpdater.pdb
-C:\Users\wmok\Desktop\TechTraderUpdater\TechTraderUpdater\TechTraderUpdater\obj\Debug\TechTraderUpdater.exe
-C:\Users\wmok\Desktop\TechTraderUpdater\TechTraderUpdater\TechTraderUpdater\obj\Debug\TechTraderUpdater.pdb
